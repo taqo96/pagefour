@@ -1,0 +1,114 @@
+article {
+	width: 450px;
+	height: 350px;
+	padding: 20px;
+	background-color: rgba(245,245,245,0.5);
+	position: relative;
+	bottom: 750px;
+	}
+
+
+
+
+
+ h1 {
+	font-size: 70px;
+	font-family: 'Fjalla One', sans-serif;
+	color: #333;
+	/*text-shadow: #EEEE00 0 0 10px;*/
+	/*-webkit-animation-duration: 1s;
+    -webkit-animation-name: glow;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-name: glow;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;*/
+   /* -webkit-transform: rotate(-50deg);*/
+    position: relative;
+    top: 10px;
+   
+}
+
+ /* @-webkit-keyframes glow {
+        from { text-shadow: 0 0 0px red; }
+        to { text-shadow: 0 0 20px red; }
+    }*/
+
+ h2 {
+	font-size: 50px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	color: #333;
+	position: relative;
+	bottom: 20px;
+	left: 5px;
+	/*text-shadow: #EEEE00 0 0 10px;*/
+	/*-webkit-animation-duration: 1s;
+    -webkit-animation-name: glow;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-name: glow;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+*/
+}
+/* @-webkit-keyframes glow {
+        from { text-shadow: 0 0 0px red; }
+        to { text-shadow: 0 0 20px red; }
+    }*/
+
+
+p {
+	font-size: 50px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	color: whitesmoke;
+	position: relative;
+	bottom: 400px;
+	width: 680px;
+}
+
+
+
+
+body {
+	width: 720px;
+	height: 1280px;
+	background: #ef8058;
+
+}
+.container {
+	width: 670px;
+	height: 1230px;
+	margin-left: 20%;
+    margin-top: 40%
+	
+}
+
+.container img {
+	width: 670px;
+	height: 1000px;
+}
+
+.container a {
+font-family: 'Fjalla One', sans-serif;
+color: white;
+background: #333;
+text-decoration: none;
+font-size: 50px;
+padding: 10px 20px;
+position: relative;
+bottom: 900px;
+}
+
+.container a:hover {
+
+color: white;
+background: yellow;
+
+}
+
+
+
+/*end*/
+
